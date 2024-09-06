@@ -15,7 +15,7 @@
     <meta name="og:image" content="https://i.postimg.cc/3JvTJH5w/totoslot.jpg" />
     <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="shortcut icon" href="https://i.postimg.cc/135XTk9q/slot-gacor.webp" />
-	<meta name="google-site-verification" content="1VCWFQfWFSqhd-cS-v1FJlPomdJ-W8CF6dPtcq8OUs0" />
+    <meta name="google-site-verification" content="OmxlsJBETbT9Cn2oZgth3Apw8qFJxd4321MIaSDGJpw" />
     <link rel="canonical" href="https://vungtaumarina.com/" />
     <link rel="amphtml" href="https://sipalingbener.pages.dev" />
 	<link rel="preload" href="https://sipalingbener.pages.dev/" as="amphtml">
