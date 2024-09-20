@@ -17,8 +17,8 @@
     <link rel="shortcut icon" href="https://i.postimg.cc/135XTk9q/slot-gacor.webp" />
     <meta name="google-site-verification" content="OmxlsJBETbT9Cn2oZgth3Apw8qFJxd4321MIaSDGJpw" />
     <link rel="canonical" href="https://vungtaumarina.com/" />
-    <link rel="amphtml" href="https://adspc88.online/vamp/" />
-    <link rel="preload" href="https://adspc88.online/vamp/" as="amphtml">
+    <link rel="amphtml" href="https://adspc88.online/vamp/index.html" />
+    <link rel="preload" href="https://adspc88.online/vamp/index.html" as="amphtml">
     <!-- start preload -->
     <link rel="preload" href="https://i.postimg.cc/3JvTJH5w/totoslot.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
